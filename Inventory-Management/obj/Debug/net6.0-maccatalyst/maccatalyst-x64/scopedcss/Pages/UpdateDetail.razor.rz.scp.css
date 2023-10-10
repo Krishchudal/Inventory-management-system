@@ -1,0 +1,122 @@
+*[b-zepfcl6lpa] {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main[b-zepfcl6lpa] {
+    display: block;
+}
+
+    main > ul[b-zepfcl6lpa] {
+        display: flex;
+        list-style: none;
+        margin-bottom: 1rem;
+        border-bottom: 2px solid #bebebe;
+        padding: 0 1rem;
+    }
+
+        main > ul > li > a[b-zepfcl6lpa] {
+            font-size: 0.85rem;
+            color: #999999;
+            font-weight: bold;
+            padding: 0.35rem 0.5rem;
+            text-decoration: none;
+            cursor: pointer;
+            display: block;
+            top: 2px;
+            position: relative;
+        }
+
+.active[b-zepfcl6lpa] {
+    color: #2065D1;
+    border: 2px solid #bebebe;
+    border-bottom: 2px solid white;
+    border-radius: 0.3rem 0.3rem 0 0;
+}
+
+main h3[b-zepfcl6lpa] {
+    font-size: 1.35rem;
+    color: #181818;
+    font-weight: bold;
+    line-height: 1.7;
+    text-transform: capitalize;
+}
+
+main p[b-zepfcl6lpa] {
+    border-radius: 0.3rem;
+    width: fit-content;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    background-color: #00ce0083;
+    border: 1px dashed #cecece;
+}
+
+main form[b-zepfcl6lpa] {
+    max-width: 370px;
+    display: block;
+}
+
+    main form input[b-zepfcl6lpa] {
+        display: block;
+        width: 100%;
+        border: 2px solid #b2b2b2;
+        border-radius: 0.3rem;
+        padding: 0.35rem 0.5rem;
+        margin-bottom: 1rem;
+        outline: none;
+    }
+
+    main form button[b-zepfcl6lpa] {
+        display: block;
+        width: fit-content;
+        border: none;
+        border-radius: 0.3rem;
+        color: white;
+        padding: 0.5rem 0.7rem;
+        background-color: #2065D1;
+    }
+
+        main form button:hover[b-zepfcl6lpa] {
+            background-color: #1a4d9e;
+        }
+
+main > form > label > input[type="checkbox"][b-zepfcl6lpa] {
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 0.5rem;
+    border-radius: 0.15rem;
+    outline: none;
+    border: 1px solid #909090;
+    font-size: 0.85rem;
+    margin-right: 0.57rem;
+    cursor: pointer;
+}
+
+main > form > label[b-zepfcl6lpa] {
+    margin-bottom: 0.7rem;
+    cursor: pointer;
+    font-size: 0.85rem;
+    display: flex;
+    align-items: center;
+    margin-right: 1.5rem;
+    width: fit-content;
+    color: #606060;
+}
+
+.message-warning[b-zepfcl6lpa] {
+    margin-top: 1rem;
+    background-color: #ff4d4d42;
+}
+
+.message-info[b-zepfcl6lpa] {
+    margin-top: 1rem;
+    background-color: #00ce0083;
+}
+
+    .message-info span[b-zepfcl6lpa], .message-warning span[b-zepfcl6lpa] {
+        margin-right: 0.5rem;
+    }

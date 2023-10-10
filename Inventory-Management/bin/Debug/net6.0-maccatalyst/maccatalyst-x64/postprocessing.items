@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="Inventory-Management.app/Contents/MacOS/Inventory-Management">
+      <BCSymbolMapName>Inventory-Management.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>Inventory-Management.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>Inventory-Management.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

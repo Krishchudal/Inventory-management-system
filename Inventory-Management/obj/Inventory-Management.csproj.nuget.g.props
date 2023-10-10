@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/krish/.nuget/packages/</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/krish/.nuget/packages/</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.3.1</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="/Users/krish/.nuget/packages/" />
+  </ItemGroup>
+  <ImportGroup Condition=" '$(TargetFramework)' == '' AND '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)syncfusion.blazor.core/20.4.0.41/buildMultiTargeting/Syncfusion.Blazor.Core.props" Condition="Exists('$(NuGetPackageRoot)syncfusion.blazor.core/20.4.0.41/buildMultiTargeting/Syncfusion.Blazor.Core.props')" />
+    <Import Project="$(NuGetPackageRoot)syncfusion.blazor.data/20.4.0.41/buildMultiTargeting/Syncfusion.Blazor.Data.props" Condition="Exists('$(NuGetPackageRoot)syncfusion.blazor.data/20.4.0.41/buildMultiTargeting/Syncfusion.Blazor.Data.props')" />
+    <Import Project="$(NuGetPackageRoot)syncfusion.blazor.charts/20.4.0.41/buildMultiTargeting/Syncfusion.Blazor.Charts.props" Condition="Exists('$(NuGetPackageRoot)syncfusion.blazor.charts/20.4.0.41/buildMultiTargeting/Syncfusion.Blazor.Charts.props')" />
+  </ImportGroup>
+  <ImportGroup Condition=" '$(TargetFramework)' == 'net6.0-android' AND '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)syncfusion.blazor.core/20.4.0.41/buildTransitive/Syncfusion.Blazor.Core.props" Condition="Exists('$(NuGetPackageRoot)syncfusion.blazor.core/20.4.0.41/buildTransitive/Syncfusion.Blazor.Core.props')" />
+    <Import Project="$(NuGetPackageRoot)syncfusion.blazor.data/20.4.0.41/buildTransitive/Syncfusion.Blazor.Data.props" Condition="Exists('$(NuGetPackageRoot)syncfusion.blazor.data/20.4.0.41/buildTransitive/Syncfusion.Blazor.Data.props')" />
+    <Import Project="$(NuGetPackageRoot)syncfusion.blazor.charts/20.4.0.41/buildTransitive/Syncfusion.Blazor.Charts.props" Condition="Exists('$(NuGetPackageRoot)syncfusion.blazor.charts/20.4.0.41/buildTransitive/Syncfusion.Blazor.Charts.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.components.webview.maui/6.0.548/build/Microsoft.AspNetCore.Components.WebView.Maui.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.components.webview.maui/6.0.548/build/Microsoft.AspNetCore.Components.WebView.Maui.props')" />
+  </ImportGroup>
+  <ImportGroup Condition=" '$(TargetFramework)' == 'net6.0-ios' AND '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)syncfusion.blazor.core/20.4.0.41/buildTransitive/Syncfusion.Blazor.Core.props" Condition="Exists('$(NuGetPackageRoot)syncfusion.blazor.core/20.4.0.41/buildTransitive/Syncfusion.Blazor.Core.props')" />
+    <Import Project="$(NuGetPackageRoot)syncfusion.blazor.data/20.4.0.41/buildTransitive/Syncfusion.Blazor.Data.props" Condition="Exists('$(NuGetPackageRoot)syncfusion.blazor.data/20.4.0.41/buildTransitive/Syncfusion.Blazor.Data.props')" />
+    <Import Project="$(NuGetPackageRoot)syncfusion.blazor.charts/20.4.0.41/buildTransitive/Syncfusion.Blazor.Charts.props" Condition="Exists('$(NuGetPackageRoot)syncfusion.blazor.charts/20.4.0.41/buildTransitive/Syncfusion.Blazor.Charts.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.components.webview.maui/6.0.548/build/Microsoft.AspNetCore.Components.WebView.Maui.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.components.webview.maui/6.0.548/build/Microsoft.AspNetCore.Components.WebView.Maui.props')" />
+  </ImportGroup>
+  <ImportGroup Condition=" '$(TargetFramework)' == 'net6.0-maccatalyst' AND '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)syncfusion.blazor.core/20.4.0.41/buildTransitive/Syncfusion.Blazor.Core.props" Condition="Exists('$(NuGetPackageRoot)syncfusion.blazor.core/20.4.0.41/buildTransitive/Syncfusion.Blazor.Core.props')" />
+    <Import Project="$(NuGetPackageRoot)syncfusion.blazor.data/20.4.0.41/buildTransitive/Syncfusion.Blazor.Data.props" Condition="Exists('$(NuGetPackageRoot)syncfusion.blazor.data/20.4.0.41/buildTransitive/Syncfusion.Blazor.Data.props')" />
+    <Import Project="$(NuGetPackageRoot)syncfusion.blazor.charts/20.4.0.41/buildTransitive/Syncfusion.Blazor.Charts.props" Condition="Exists('$(NuGetPackageRoot)syncfusion.blazor.charts/20.4.0.41/buildTransitive/Syncfusion.Blazor.Charts.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.components.webview.maui/6.0.548/build/Microsoft.AspNetCore.Components.WebView.Maui.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.components.webview.maui/6.0.548/build/Microsoft.AspNetCore.Components.WebView.Maui.props')" />
+  </ImportGroup>
+</Project>

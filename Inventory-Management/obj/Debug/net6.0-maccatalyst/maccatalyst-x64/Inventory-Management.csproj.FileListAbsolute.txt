@@ -1,0 +1,894 @@
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.runtimeconfig.json
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.pdb
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.AspNetCore.Authorization.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.AspNetCore.Components.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.AspNetCore.Components.Forms.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.AspNetCore.Components.Web.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.AspNetCore.Components.WebView.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.AspNetCore.Components.WebView.Maui.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.AspNetCore.Metadata.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Configuration.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Configuration.Binder.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Configuration.Json.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.DependencyInjection.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Logging.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Options.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Primitives.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.JSInterop.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Graphics.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Syncfusion.Blazor.Charts.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Syncfusion.Blazor.Core.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Syncfusion.Blazor.Data.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Syncfusion.Blazor.DataVizCommon.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Syncfusion.Licensing.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Syncfusion.PdfExport.Net.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.Pipelines.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.CSharp.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.VisualBasic.Core.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.VisualBasic.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Win32.Primitives.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Win32.Registry.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.AppContext.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Buffers.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Collections.Concurrent.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Collections.Immutable.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Collections.NonGeneric.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Collections.Specialized.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Collections.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ComponentModel.Annotations.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ComponentModel.DataAnnotations.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ComponentModel.EventBasedAsync.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ComponentModel.Primitives.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ComponentModel.TypeConverter.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ComponentModel.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Configuration.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Console.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Core.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Data.Common.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Data.DataSetExtensions.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Data.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Contracts.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Debug.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.DiagnosticSource.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.FileVersionInfo.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Process.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.StackTrace.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.TextWriterTraceListener.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Tools.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.TraceSource.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Tracing.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Drawing.Primitives.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Drawing.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Dynamic.Runtime.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Formats.Asn1.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Globalization.Calendars.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Globalization.Extensions.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Globalization.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.Compression.Brotli.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.Compression.FileSystem.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.Compression.ZipFile.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.Compression.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.AccessControl.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.DriveInfo.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.Primitives.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.Watcher.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.IsolatedStorage.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.MemoryMappedFiles.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.Pipes.AccessControl.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.Pipes.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.UnmanagedMemoryStream.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Linq.Expressions.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Linq.Parallel.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Linq.Queryable.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Linq.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Memory.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Http.Json.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Http.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.HttpListener.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Mail.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.NameResolution.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.NetworkInformation.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Ping.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Primitives.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Quic.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Requests.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Security.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.ServicePoint.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Sockets.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.WebClient.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.WebHeaderCollection.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.WebProxy.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.WebSockets.Client.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.WebSockets.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Numerics.Vectors.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Numerics.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ObjectModel.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Private.DataContractSerialization.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Private.Uri.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Private.Xml.Linq.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Private.Xml.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.DispatchProxy.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.Emit.ILGeneration.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.Emit.Lightweight.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.Emit.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.Extensions.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.Metadata.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.Primitives.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.TypeExtensions.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Resources.Reader.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Resources.ResourceManager.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Resources.Writer.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.CompilerServices.Unsafe.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.CompilerServices.VisualC.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Extensions.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Handles.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.InteropServices.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Intrinsics.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Loader.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Numerics.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.Formatters.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.Json.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.Primitives.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.Xml.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.AccessControl.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Claims.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Algorithms.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Cng.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Csp.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Encoding.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.OpenSsl.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Primitives.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.X509Certificates.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Principal.Windows.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Principal.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.SecureString.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ServiceModel.Web.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ServiceProcess.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Text.Encoding.CodePages.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Text.Encoding.Extensions.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Text.Encoding.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Text.Encodings.Web.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Text.Json.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Text.RegularExpressions.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Channels.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Overlapped.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Tasks.Dataflow.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Tasks.Extensions.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Tasks.Parallel.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Tasks.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Thread.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.ThreadPool.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Timer.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Transactions.Local.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Transactions.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ValueTuple.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Web.HttpUtility.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Web.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Windows.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.Linq.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.ReaderWriter.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.Serialization.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.XDocument.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.XPath.XDocument.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.XPath.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.XmlDocument.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.XmlSerializer.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/WindowsBase.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/mscorlib.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/netstandard.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Controls.Compatibility.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Controls.Xaml.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Controls.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Essentials.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.MacCatalyst.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Private.CoreLib.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/icudt.dat
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/icudt_CJK.dat
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/icudt_EFIGS.dat
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/icudt_no_CJK.dat
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.IO.Compression.Native.a
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.IO.Compression.Native.dylib
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.Native.a
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.Native.dylib
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.Net.Security.Native.a
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.Net.Security.Native.dylib
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.Security.Cryptography.Native.Apple.a
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.Security.Cryptography.Native.Apple.dylib
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libicudata.a
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libicui18n.a
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libicuuc.a
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmono-component-debugger-static.a
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmono-component-debugger-stub-static.a
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmono-component-diagnostics_tracing-static.a
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmono-component-diagnostics_tracing-stub-static.a
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmono-component-hot_reload-static.a
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmono-component-hot_reload-stub-static.a
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmonosgen-2.0.a
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmonosgen-2.0.dylib
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.MacCatalyst.registrar.a
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet-debug.a
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet-debug.dylib
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet.a
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet.dylib
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets/msbuild.Inventory-Management.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets/msbuild.build.Inventory-Management.props
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets/msbuild.buildMultiTargeting.Inventory-Management.props
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets/msbuild.buildTransitive.Inventory-Management.props
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets.pack.json
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets.build.json
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets.development.json
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/Dashboard.razor.rz.scp.css
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/Items.razor.rz.scp.css
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/Login.razor.rz.scp.css
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/Record.razor.rz.scp.css
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/Request.razor.rz.scp.css
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/Staffs.razor.rz.scp.css
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/UpdateDetail.razor.rz.scp.css
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/InventoryDetails.razor.rz.scp.css
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/bundle/Inventory-Management.styles.css
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/projectbundle/Inventory-Management.bundle.scp.css
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets.publish.json
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauiimage.inputs
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauifont.inputs
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauisplash.inputs
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauisplash.stamp
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@2x.png
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@3x.png
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@2x.png
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@3x.png
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@2x.png
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@3x.png
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@2x.png
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@3x.png
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon76x76@2x.png
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon83.5x83.5@2x.png
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appiconItunesArtwork.png
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/Contents.json
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauiimage.stamp
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/f/MauiInfo.plist
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauifont.stamp
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/f/OpenSans-Regular.ttf
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/actool/_PartialAppManifest.items
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/actool/_BundleResourceWithLogicalName.items
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/actool/_ProcessedImageAssetsPath.items
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/coremlc/_PartialAppManifest.items
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/coremlc/_BundleResourceWithLogicalName.items
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/_ProcessedBundleResourcesPath.items
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/_ProcessedContentPath.items
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.csproj.AssemblyReference.cache
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.AssemblyInfoInputs.cache
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.AssemblyInfo.cs
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.csproj.CoreCompileInputs.cache
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.MvcApplicationPartsAssemblyInfo.cache
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/XamlC.stamp
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.csproj.CopyComplete
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/refint/Inventory-Management.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.pdb
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.genruntimeconfig.cache
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/ref/Inventory-Management.dll
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/dotnet_bot.png
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/dotnet_bot@2x.png
+/Users/krish/Desktop/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/dotnet_bot@3x.png
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.runtimeconfig.json
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.pdb
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.AspNetCore.Authorization.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.AspNetCore.Components.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.AspNetCore.Components.Forms.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.AspNetCore.Components.Web.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.AspNetCore.Components.WebView.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.AspNetCore.Components.WebView.Maui.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.AspNetCore.Metadata.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Configuration.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Configuration.Binder.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Configuration.Json.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.DependencyInjection.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Logging.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Options.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Primitives.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.JSInterop.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Graphics.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Syncfusion.Blazor.Charts.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Syncfusion.Blazor.Core.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Syncfusion.Blazor.Data.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Syncfusion.Blazor.DataVizCommon.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Syncfusion.Licensing.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Syncfusion.PdfExport.Net.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.Pipelines.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.CSharp.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.VisualBasic.Core.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.VisualBasic.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Win32.Primitives.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Win32.Registry.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.AppContext.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Buffers.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Collections.Concurrent.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Collections.Immutable.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Collections.NonGeneric.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Collections.Specialized.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Collections.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ComponentModel.Annotations.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ComponentModel.DataAnnotations.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ComponentModel.EventBasedAsync.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ComponentModel.Primitives.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ComponentModel.TypeConverter.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ComponentModel.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Configuration.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Console.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Core.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Data.Common.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Data.DataSetExtensions.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Data.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Contracts.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Debug.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.DiagnosticSource.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.FileVersionInfo.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Process.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.StackTrace.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.TextWriterTraceListener.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Tools.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.TraceSource.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Tracing.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Drawing.Primitives.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Drawing.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Dynamic.Runtime.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Formats.Asn1.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Globalization.Calendars.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Globalization.Extensions.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Globalization.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.Compression.Brotli.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.Compression.FileSystem.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.Compression.ZipFile.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.Compression.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.AccessControl.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.DriveInfo.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.Primitives.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.Watcher.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.IsolatedStorage.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.MemoryMappedFiles.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.Pipes.AccessControl.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.Pipes.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.UnmanagedMemoryStream.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Linq.Expressions.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Linq.Parallel.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Linq.Queryable.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Linq.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Memory.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Http.Json.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Http.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.HttpListener.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Mail.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.NameResolution.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.NetworkInformation.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Ping.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Primitives.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Quic.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Requests.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Security.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.ServicePoint.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Sockets.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.WebClient.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.WebHeaderCollection.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.WebProxy.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.WebSockets.Client.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.WebSockets.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Numerics.Vectors.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Numerics.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ObjectModel.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Private.DataContractSerialization.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Private.Uri.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Private.Xml.Linq.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Private.Xml.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.DispatchProxy.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.Emit.ILGeneration.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.Emit.Lightweight.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.Emit.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.Extensions.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.Metadata.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.Primitives.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.TypeExtensions.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Resources.Reader.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Resources.ResourceManager.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Resources.Writer.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.CompilerServices.Unsafe.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.CompilerServices.VisualC.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Extensions.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Handles.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.InteropServices.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Intrinsics.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Loader.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Numerics.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.Formatters.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.Json.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.Primitives.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.Xml.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.AccessControl.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Claims.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Algorithms.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Cng.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Csp.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Encoding.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.OpenSsl.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Primitives.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.X509Certificates.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Principal.Windows.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Principal.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.SecureString.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ServiceModel.Web.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ServiceProcess.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Text.Encoding.CodePages.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Text.Encoding.Extensions.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Text.Encoding.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Text.Encodings.Web.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Text.Json.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Text.RegularExpressions.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Channels.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Overlapped.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Tasks.Dataflow.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Tasks.Extensions.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Tasks.Parallel.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Tasks.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Thread.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.ThreadPool.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Timer.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Transactions.Local.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Transactions.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ValueTuple.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Web.HttpUtility.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Web.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Windows.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.Linq.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.ReaderWriter.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.Serialization.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.XDocument.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.XPath.XDocument.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.XPath.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.XmlDocument.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.XmlSerializer.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/WindowsBase.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/mscorlib.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/netstandard.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Controls.Compatibility.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Controls.Xaml.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Controls.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Essentials.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.MacCatalyst.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Private.CoreLib.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/icudt.dat
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/icudt_CJK.dat
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/icudt_EFIGS.dat
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/icudt_no_CJK.dat
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.IO.Compression.Native.a
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.IO.Compression.Native.dylib
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.Native.a
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.Native.dylib
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.Net.Security.Native.a
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.Net.Security.Native.dylib
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.Security.Cryptography.Native.Apple.a
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.Security.Cryptography.Native.Apple.dylib
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libicudata.a
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libicui18n.a
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libicuuc.a
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmono-component-debugger-static.a
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmono-component-debugger-stub-static.a
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmono-component-diagnostics_tracing-static.a
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmono-component-diagnostics_tracing-stub-static.a
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmono-component-hot_reload-static.a
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmono-component-hot_reload-stub-static.a
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmonosgen-2.0.a
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmonosgen-2.0.dylib
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.MacCatalyst.registrar.a
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet-debug.a
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet-debug.dylib
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet.a
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet.dylib
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets/msbuild.Inventory-Management.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets/msbuild.build.Inventory-Management.props
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets/msbuild.buildMultiTargeting.Inventory-Management.props
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets/msbuild.buildTransitive.Inventory-Management.props
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets.pack.json
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets.build.json
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets.development.json
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/Dashboard.razor.rz.scp.css
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/Items.razor.rz.scp.css
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/Login.razor.rz.scp.css
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/Record.razor.rz.scp.css
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/Request.razor.rz.scp.css
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/Staffs.razor.rz.scp.css
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/UpdateDetail.razor.rz.scp.css
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/InventoryDetails.razor.rz.scp.css
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/bundle/Inventory-Management.styles.css
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/projectbundle/Inventory-Management.bundle.scp.css
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets.publish.json
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauiimage.inputs
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauifont.inputs
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauisplash.inputs
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauisplash.stamp
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@2x.png
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@3x.png
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@2x.png
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@3x.png
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@2x.png
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@3x.png
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@2x.png
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@3x.png
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon76x76@2x.png
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon83.5x83.5@2x.png
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appiconItunesArtwork.png
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/Contents.json
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/dotnet_bot.png
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/dotnet_bot@2x.png
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/dotnet_bot@3x.png
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauiimage.stamp
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/f/MauiInfo.plist
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauifont.stamp
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/f/OpenSans-Regular.ttf
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/actool/_PartialAppManifest.items
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/actool/_BundleResourceWithLogicalName.items
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/actool/_ProcessedImageAssetsPath.items
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/coremlc/_PartialAppManifest.items
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/coremlc/_BundleResourceWithLogicalName.items
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/_ProcessedBundleResourcesPath.items
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/_ProcessedContentPath.items
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.csproj.AssemblyReference.cache
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.AssemblyInfoInputs.cache
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.AssemblyInfo.cs
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.csproj.CoreCompileInputs.cache
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.MvcApplicationPartsAssemblyInfo.cache
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/XamlC.stamp
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.csproj.CopyComplete
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/refint/Inventory-Management.dll
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.pdb
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.genruntimeconfig.cache
+/Users/krish/Desktop/year 3/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/ref/Inventory-Management.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.runtimeconfig.json
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.pdb
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.AspNetCore.Authorization.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.AspNetCore.Components.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.AspNetCore.Components.Forms.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.AspNetCore.Components.Web.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.AspNetCore.Components.WebView.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.AspNetCore.Components.WebView.Maui.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.AspNetCore.Metadata.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Configuration.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Configuration.Binder.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Configuration.Json.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.DependencyInjection.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Logging.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Options.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Primitives.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.JSInterop.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Graphics.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Syncfusion.Blazor.Charts.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Syncfusion.Blazor.Core.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Syncfusion.Blazor.Data.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Syncfusion.Blazor.DataVizCommon.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Syncfusion.Licensing.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Syncfusion.PdfExport.Net.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.Pipelines.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.CSharp.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.VisualBasic.Core.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.VisualBasic.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Win32.Primitives.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Win32.Registry.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.AppContext.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Buffers.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Collections.Concurrent.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Collections.Immutable.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Collections.NonGeneric.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Collections.Specialized.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Collections.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ComponentModel.Annotations.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ComponentModel.DataAnnotations.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ComponentModel.EventBasedAsync.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ComponentModel.Primitives.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ComponentModel.TypeConverter.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ComponentModel.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Configuration.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Console.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Core.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Data.Common.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Data.DataSetExtensions.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Data.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Contracts.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Debug.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.DiagnosticSource.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.FileVersionInfo.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Process.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.StackTrace.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.TextWriterTraceListener.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Tools.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.TraceSource.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Tracing.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Drawing.Primitives.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Drawing.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Dynamic.Runtime.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Formats.Asn1.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Globalization.Calendars.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Globalization.Extensions.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Globalization.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.Compression.Brotli.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.Compression.FileSystem.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.Compression.ZipFile.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.Compression.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.AccessControl.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.DriveInfo.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.Primitives.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.Watcher.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.IsolatedStorage.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.MemoryMappedFiles.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.Pipes.AccessControl.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.Pipes.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.UnmanagedMemoryStream.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.IO.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Linq.Expressions.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Linq.Parallel.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Linq.Queryable.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Linq.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Memory.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Http.Json.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Http.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.HttpListener.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Mail.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.NameResolution.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.NetworkInformation.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Ping.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Primitives.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Quic.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Requests.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Security.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.ServicePoint.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.Sockets.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.WebClient.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.WebHeaderCollection.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.WebProxy.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.WebSockets.Client.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.WebSockets.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Net.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Numerics.Vectors.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Numerics.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ObjectModel.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Private.DataContractSerialization.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Private.Uri.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Private.Xml.Linq.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Private.Xml.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.DispatchProxy.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.Emit.ILGeneration.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.Emit.Lightweight.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.Emit.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.Extensions.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.Metadata.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.Primitives.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.TypeExtensions.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Reflection.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Resources.Reader.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Resources.ResourceManager.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Resources.Writer.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.CompilerServices.Unsafe.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.CompilerServices.VisualC.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Extensions.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Handles.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.InteropServices.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Intrinsics.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Loader.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Numerics.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.Formatters.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.Json.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.Primitives.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.Xml.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Runtime.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.AccessControl.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Claims.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Algorithms.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Cng.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Csp.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Encoding.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.OpenSsl.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Primitives.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.X509Certificates.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Principal.Windows.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.Principal.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.SecureString.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Security.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ServiceModel.Web.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ServiceProcess.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Text.Encoding.CodePages.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Text.Encoding.Extensions.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Text.Encoding.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Text.Encodings.Web.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Text.Json.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Text.RegularExpressions.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Channels.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Overlapped.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Tasks.Dataflow.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Tasks.Extensions.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Tasks.Parallel.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Tasks.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Thread.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.ThreadPool.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.Timer.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Threading.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Transactions.Local.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Transactions.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.ValueTuple.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Web.HttpUtility.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Web.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Windows.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.Linq.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.ReaderWriter.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.Serialization.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.XDocument.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.XPath.XDocument.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.XPath.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.XmlDocument.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.XmlSerializer.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Xml.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/WindowsBase.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/mscorlib.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/netstandard.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Controls.Compatibility.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Controls.Xaml.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Controls.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Essentials.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.MacCatalyst.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/System.Private.CoreLib.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/icudt.dat
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/icudt_CJK.dat
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/icudt_EFIGS.dat
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/icudt_no_CJK.dat
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.IO.Compression.Native.a
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.IO.Compression.Native.dylib
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.Native.a
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.Native.dylib
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.Net.Security.Native.a
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.Net.Security.Native.dylib
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.Security.Cryptography.Native.Apple.a
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libSystem.Security.Cryptography.Native.Apple.dylib
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libicudata.a
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libicui18n.a
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libicuuc.a
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmono-component-debugger-static.a
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmono-component-debugger-stub-static.a
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmono-component-diagnostics_tracing-static.a
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmono-component-diagnostics_tracing-stub-static.a
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmono-component-hot_reload-static.a
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmono-component-hot_reload-stub-static.a
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmonosgen-2.0.a
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libmonosgen-2.0.dylib
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.MacCatalyst.registrar.a
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet-debug.a
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet-debug.dylib
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet.a
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet.dylib
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets/msbuild.Inventory-Management.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets/msbuild.build.Inventory-Management.props
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets/msbuild.buildMultiTargeting.Inventory-Management.props
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets/msbuild.buildTransitive.Inventory-Management.props
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets.pack.json
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets.build.json
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets.development.json
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/Dashboard.razor.rz.scp.css
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/Items.razor.rz.scp.css
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/Login.razor.rz.scp.css
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/Record.razor.rz.scp.css
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/Request.razor.rz.scp.css
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/Staffs.razor.rz.scp.css
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/UpdateDetail.razor.rz.scp.css
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/Pages/InventoryDetails.razor.rz.scp.css
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/bundle/Inventory-Management.styles.css
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/projectbundle/Inventory-Management.bundle.scp.css
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/staticwebassets.publish.json
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauiimage.inputs
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauifont.inputs
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauisplash.inputs
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauisplash.stamp
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@2x.png
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@3x.png
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@2x.png
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@3x.png
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@2x.png
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@3x.png
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@2x.png
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@3x.png
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon76x76@2x.png
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon83.5x83.5@2x.png
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appiconItunesArtwork.png
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/Contents.json
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/dotnet_bot.png
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/dotnet_bot@2x.png
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/dotnet_bot@3x.png
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauiimage.stamp
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/f/MauiInfo.plist
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauifont.stamp
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/f/OpenSans-Regular.ttf
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/actool/_PartialAppManifest.items
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/actool/_BundleResourceWithLogicalName.items
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/actool/_ProcessedImageAssetsPath.items
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/coremlc/_PartialAppManifest.items
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/coremlc/_BundleResourceWithLogicalName.items
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/_ProcessedBundleResourcesPath.items
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/_ProcessedContentPath.items
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.csproj.AssemblyReference.cache
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.AssemblyInfoInputs.cache
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.AssemblyInfo.cs
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.csproj.CoreCompileInputs.cache
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.MvcApplicationPartsAssemblyInfo.cache
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/XamlC.stamp
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.csproj.CopyComplete
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/refint/Inventory-Management.dll
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.pdb
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Inventory-Management.genruntimeconfig.cache
+/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/ref/Inventory-Management.dll

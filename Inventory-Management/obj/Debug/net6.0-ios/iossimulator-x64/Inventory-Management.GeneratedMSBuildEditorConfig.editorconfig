@@ -1,0 +1,122 @@
+is_global = true
+build_property.TargetFramework = net6.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Inventory_Management
+build_property.RootNamespace = Inventory_Management
+build_property.ProjectDir = /Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Inventory_Management.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Inventory_Management.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/Main.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = TWFpbi5yYXpvcg==
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/Pages/Index.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/_Imports.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/Pages/Dashboard.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGFzaGJvYXJkLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = b-or5433q7fb
+
+[/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/Pages/InventoryDetails.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW52ZW50b3J5RGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = b-nwz0j8bom3
+
+[/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/Pages/Items.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSXRlbXMucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = b-9z8g1q58lh
+
+[/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/Pages/Login.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = b-ertzbhang8
+
+[/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/Pages/Record.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVjb3JkLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = b-ygorpyt9yz
+
+[/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/Pages/Request.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVxdWVzdC5yYXpvcg==
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = b-xqqjg8kmkl
+
+[/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/Pages/Staffs.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3RhZmZzLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = b-4ppk9a15x7
+
+[/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/Pages/UpdateDetail.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXBkYXRlRGV0YWlsLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = b-zepfcl6lpa
+
+[/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = b-xgp3iw9h9a
+
+[/Users/krish/Desktop/year 3/Sem 1/Application DEVELOPMENT/Inventory-Management/Inventory-Management/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = b-zwm5tupk5p

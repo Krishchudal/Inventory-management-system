@@ -1,0 +1,1 @@
+D:\Application Development\Inventory-Management\Inventory-Management\Inventory-Management.csproj;x64

@@ -1,0 +1,48 @@
+﻿@page "/inventorydetails"
+@using Inventory_Management.Data
+@using Inventory_Management.Services
+
+<main>
+    <h1>Inventory Details</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Quantity</th>
+                <th>Date Last Taken</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in items)
+            {
+                var latestHistory = approvedHistories.Where(x => x.ItemId == item.Id).OrderByDescending(x => x.DateApproved).FirstOrDefault();
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Quantity</td>
+                    <td>
+                        @if (latestHistory != null)
+                        {
+                            @latestHistory.DateApproved.ToString("dd MMM, yyyy")
+                        }
+                        else
+                        {
+                            <span>Not Available</span>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</main>
+
+@code {
+    [CascadingParameter]
+    private GlobalUser globalUser { get; set; }
+    private List<ItemModel> items { get; set; }
+    private List<ItemHistory> approvedHistories { get; set; }
+    protected override void OnInitialized()
+    {
+        items = ItemService.FetchItem();
+        approvedHistories = ItemService.FetchApprovedItemHistory();
+    }
+}
